@@ -1,0 +1,112 @@
+
+[
+    {
+        "id": 1,
+        "title": "Mens Kurta",
+        "name": "Wedding Special",
+        "price": 1199,
+        "compare_at_price": "1299",
+        "vendor": "Manyvar",
+        "badge_text": "Wedding Special",
+        "image": "image/gtddd.jpeg"
+    },
+    {
+        "id": 2,
+        "name": "RCB Tshirt",
+        "price": 2199,
+        "compare_at_price": "4299",
+        "vendor": "Puma",
+        "badge_text": "Cricket",
+        "image": "image/rcb.png"
+    },
+    {
+        "id": 3,
+        "name": "Green Charm",
+        "price": 1399,
+        "compare_at_price": "1499",
+        "vendor": "Myntra",
+        "badge_text": "On offer",
+        "image": "image/green.png"
+    },
+    {
+        "id": 4,
+        "name": "Mens Tshirt",
+        "price": "599",
+        "compare_at_price": "799",
+        "vendor": "Myntra",
+        "badge_text": "New season",
+        "image": "image/black.png"
+    },
+    {
+        "id": 5,
+        "name": "Women Kurti",
+        "price": 1199,
+        "compare_at_price": "1299",
+        "vendor": "Manyvar",
+        "badge_text": "New season",
+        "image": "image/red.png"
+    },
+    {
+        "id": 6,
+        "name": "Yellow casual dress",
+        "price": 200,
+        "compare_at_price": "299",
+                    "vendor": "Myntra",
+                    "badge_text": "On offer",
+        "image": "image/yello.png"
+    },
+    {
+        "id": 7,
+        "name": "Women Black & GoldenKurti",
+        "price": 1399,
+        "compare_at_price": "1499",
+        "vendor": "Myntra",
+        "badge_text": "On offer",
+        "image": "image/blackgirl.png"
+    },
+    {
+        "id": 8,
+        "name": " METRO-FASHION",
+        "price": 1599,
+        "compare_at_price": "1799",
+        "vendor": "Myntra",
+        "badge_text": "New season",
+        "image": "image/skyblue.png"
+    },
+    {
+        "id": 5,
+        "name": " Chicco",
+        "price": 1199,
+        "compare_at_price": "1399",
+        "vendor": "Myntra",
+        "badge_text": "Wedding Special",
+        "image": "image/kids1.png"
+    },
+    {
+        "id": 6,
+        "name": " Girls White & Black Tracksuit",
+        "price": 2199,
+        "compare_at_price": "4299",
+        "vendor": "Myntra",
+        "badge_text": "New season",
+        "image": "image/kids2.png"
+    },
+    {
+        "id": 7,
+        "name": "Custom t-shirt",
+        "price": 1399,
+        "compare_at_price": "1499",
+                    "vendor": "Myntra",
+                    "badge_text": "On offer",
+        "image": "image/kids3.png"
+    },
+    {
+        "id": 8,
+        "name": " Kids Tshirt",
+        "price": 599,
+        "compare_at_price": "799",
+        "vendor": "Myntra",
+        "badge_text": "New season",
+        "image": "image/kids4.png"
+    }
+]
